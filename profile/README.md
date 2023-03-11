@@ -1,6 +1,4 @@
-*********************************************
-#               GEEKXFLOOD
-*********************************************
+ ![Geekxflood banner](../assets/gxf_banner.png) 
 
 🚀 Enthusiastic developers who love to work with Prometheus and create cool stuff using Go. 
 
@@ -18,7 +16,4 @@
 
 🌟 At Geekxflood, we are committed to delivering exceptional quality and customer satisfaction. 
 
-👋 If you're interested in working with us, don't hesitate to get in touch!
-
-*********************************************
 
