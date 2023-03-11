@@ -1,4 +1,4 @@
- ![Geekxflood banner](../assets/gxf_banner.png) 
+ ![Geekxflood banner](assets/gxf_banner.png) 
 
 🚀 Enthusiastic developers who love to work with Prometheus and create cool stuff using Go. 
 
